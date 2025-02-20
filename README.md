@@ -1,5 +1,5 @@
 # FlexTrainer-Gym-and-Nutrition-Planner
-# Group Memebers: Hassan Zafar & Tashfeen Hassan
+### Group Members: Hassan Zafar & Tashfeen Hassan
 
 Windows Application built using C# .NET window forms and MySql
 The Forms were developed after prototype designs made in Canva. A Database was created that and normalized into 3NF on a desgin board before being implemented on MySQL server. Data was then loaded into the application using excel sheets.
